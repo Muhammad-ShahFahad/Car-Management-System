@@ -1,0 +1,15 @@
+2026-11-19 08:29:19,193 [INFO] __str__ method called
+2026-11-19 08:41:59,305 [INFO] Bugatti Started.
+2026-11-19 08:41:59,305 [INFO] __str__ method called
+2026-11-19 08:45:09,407 [INFO] __str__ method called
+2026-11-19 08:46:31,314 [INFO] __str__ method called
+2026-11-19 09:04:53,176 [INFO] Bugatti stoped
+2026-11-19 09:04:53,176 [INFO] The Bugatti is accelerating.
+2026-11-19 09:04:53,176 [INFO] The Bugatti is stopping
+2026-11-19 09:04:53,177 [INFO] __str__ method called
+2026-11-19 09:08:10,874 [INFO] __str__ method called
+2026-11-19 09:12:26,402 [INFO] Displaying car information
+2026-11-19 09:13:14,411 [INFO] Displaying car information
+2026-11-19 19:07:29,860 [INFO] Displaying car information
+2026-11-19 19:07:33,714 [INFO] __str__ method called
+2026-11-19 19:10:59,365 [INFO] __str__ method called
